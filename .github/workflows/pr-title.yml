@@ -22,7 +22,7 @@ jobs:
           # Default: https://github.com/commitizen/conventional-commit-types
           types: |
             fix
-            feature
+            feat
             docs
             ci
             chore
