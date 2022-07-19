@@ -12,6 +12,7 @@ Please note that we strive to provide a comprehensive suite of documentation for
 | Name | Type |
 |------|------|
 | [Kubernetes Documentation](https://kubernetes.io/docs/home) | Resource |
+| [Terraform Provider](https://github.com/huaweicloud/terraform-provider-huaweicloud) | Resource |
 
 ## Available Features
 
